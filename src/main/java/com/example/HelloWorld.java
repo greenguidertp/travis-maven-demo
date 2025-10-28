@@ -1,7 +1,7 @@
 package com.example;
 public class HelloWorld {
     public static String greet() {
-        return "Hello, Travis CI with Maven updated!";
+        return "Hello, Travis CI with Maven updatedd!";
     }
 
     public static void main(String[] args) {
